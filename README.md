@@ -60,6 +60,7 @@ Patches are welcome! Fork, hack, request pull! Here is my current to-do list:
 
  * Improve the heuristics to the key-words used to find gifs
  * Add functionalities as: set cron jobs to the bot, more user-friendly features and others.
+ * Create tests for the functionalities. As the bot is new and with just one functionality, the test were made a hand.
 
 ### Licenses and Copyright
 
